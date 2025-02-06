@@ -33,7 +33,3 @@ This NetLogo model simulates an **evolutionary hunter-prey system**, where **hun
 - The model visualizes **how evolutionary pressure shapes behavior** in a hunter-prey environment.
 - Evolutionary progress is tracked using **moving averages** of scores.
 - Different setups (`Default`, `Populous`, `Mutants`) provide varying population and mutation dynamics.
-
----
-
-*For questions or contributions, feel free to open an issue or submit a pull request!*

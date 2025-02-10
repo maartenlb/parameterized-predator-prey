@@ -8,7 +8,7 @@ This NetLogo model simulates an **evolutionary hunter-prey system**, where **hun
 
 ## Features
 
-- **Agent-based Evolution**: Hunters inherit traits and evolve using a **tournament-based genetic algorithm**.
+- **Agent-based Evolution**: Hunters inherit traits and evolve using a **tournament-based genetic algorithm** including mutations.
 - **Adaptive Behavior**: Hunters adjust their movement based on the target's position.
 - **Mutation and Crossover**: Offspring inherit and mutate their genotype to improve performance.
 - **Tracking Metrics**: The simulation tracks **average score, maximum score, and evolutionary trends**.
